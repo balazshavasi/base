@@ -1,3 +1,9 @@
+## Forked project
+- author ***balazshavasi***
+- date: **2021.02.21**
+- MIT1 laboratory*
+
+
 # Train Speed Controller
 
 This is a sample application for the verification laboratory.
