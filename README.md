@@ -1,7 +1,7 @@
 ## Forked project
 - author ***balazshavasi***
 - date: **2021.02.21**
-- MIT1 laboratory*
+- *MIT1 laboratory*
 
 
 # Train Speed Controller
