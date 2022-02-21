@@ -24,6 +24,13 @@ public class TrainSensorImpl implements TrainSensor {
 	public void overrideSpeedLimit(int speedLimit) {
 		this.speedLimit = speedLimit;
 		controller.setSpeedLimit(speedLimit);
+
+        if(NewFeatureInterface()) controller.setSpeedlimit(0);
 	}
+
+    @Override
+    public boolean NewFeatureInterface(){
+        return false;
+    }
 
 }
